@@ -1,0 +1,63 @@
+HCMUS Portal
+(0) Xin chào PHẠM HOÀNG MINH | Đăng xuất
+Dashboard
+Học tập
+Xem lịch thi
+Tra cứu kết quả học tập
+Tra cứu học phí
+Đăng ký học phần
+Đăng ký học phần
+Kết quả ĐKHP
+Lịch sử ĐKHP
+Danh Sách Lớp Mở
+Chuyên Đề
+Đăng ký chuyên đề
+Kết quả đăng ký
+Kết Quả Đăng Ký Học Phần 25-26/HK1
+Năm Học: 
+25-26
+ Học Kỳ: 
+1
+    
+Xem
+Danh sách môn học đã được duyệt
+Mã MH
+Tên Môn Học
+Lớp/Nhóm
+Loại
+Lịch Học
+BAA00030	Giáo dục quốc phòng - An ninh	1		
+BAA00102	Kinh tế chính trị Mác - Lênin	24TTH1		T2(1-5)-P.cs2:F304
+MTH00014	Giải tích 3A	24TTH1TN/24TTH1TN		T2(6-8)-P.cs2:D001
+MTH00019	Giải tích 2A	24TTH1TN/24TTH1TN		T6(2-5)-P.cs2:NĐH7.4
+MTH00031	Đại số đại cương	24TTH1TN		T3(1-4)-P.cs2:NĐH7.5
+MTH00042	Xác suất	24TTH1TN/24TTH1TN		T4(1-4)-P.cs2:F202
+MTH00084	Thực hành đại số đại cương	24TTH1TN		T4(6-7.5)-P.cs2:D210
+MTH00087	Thực hành phần mềm tính toán	24TTH1TN		T3(6-9)-P.cs2:PMT_NĐH4.4
+PHY00001	Vật l‎‎ý đại cương 1 (Cơ - Nhiệt)	24DTV2		T6(6-9)-P.cs2:F201
+Danh sách môn học đã đăng ký
+Mã MH
+Tên Môn Học
+Lớp/Nhóm
+Loại ĐK
+Loại
+Lịch Học
+Tuần bắt đầu
+BAA00102	Kinh tế chính trị Mác - Lênin	24TTH1		LT	T2(1-5)-P.cs2:F304	08/12/2025
+MTH00014	Giải tích 3A	24TTH1TN		LT	T2(6-8)-P.cs2:D001	29/09/2025
+MTH00014	Giải tích 3A	24TTH1TN		BT	T2(8.5-10)-P.cs2:D001	13/10/2025
+MTH00019	Giải tích 2A	24TTH1TN		BT	T7(6-7.5)-P.cs2:NĐH7.4	13/10/2025
+MTH00019	Giải tích 2A	24TTH1TN		LT	T6(2-5)-P.cs2:NĐH7.4	29/09/2025
+MTH00031	Đại số đại cương	24TTH1TN		LT	T3(1-4)-P.cs2:NĐH7.5	29/09/2025
+MTH00042	Xác suất	24TTH1TN		BT	T7(3.5-5)-P.cs2:NĐH7.6	13/10/2025
+MTH00042	Xác suất	24TTH1TN		LT	T4(1-4)-P.cs2:F202	29/09/2025
+MTH00084	Thực hành đại số đại cương	24TTH1TN		LT	T4(6-7.5)-P.cs2:D210	13/10/2025
+MTH00087	Thực hành phần mềm tính toán	24TTH1TN		LT	T3(6-9)-P.cs2:PMT_NĐH4.4	29/09/2025
+PHY00001	Vật l‎‎ý đại cương 1 (Cơ - Nhiệt)	24DTV2		LT	T6(6-9)-P.cs2:F201	29/09/2025
+ 
+Phiên bản 2.2.8 - Bản quyền của HCMUS, © 2007 - 2025
+Phát triển bởi SELab 2007 - 2014. Vận hành bởi Phòng Đào tạo, 2025
+Beta
+0 / 0
+used queries
+1
