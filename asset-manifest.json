@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CalendarConverter/static/css/main.0194c58f.css",
+    "main.js": "/CalendarConverter/static/js/main.aa4d22f7.js",
+    "index.html": "/CalendarConverter/index.html",
+    "main.0194c58f.css.map": "/CalendarConverter/static/css/main.0194c58f.css.map",
+    "main.aa4d22f7.js.map": "/CalendarConverter/static/js/main.aa4d22f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0194c58f.css",
+    "static/js/main.aa4d22f7.js"
+  ]
+}
